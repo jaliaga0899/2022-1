@@ -30,16 +30,6 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 ## Material Tareas
 
-### Tarea 1
-
-- [Capsula Component Tree](https://youtu.be/VX3g0Xj4cv0)
-- [Comparacion de Imagenes](https://github.com/IIC2133-PUC/2022-1/tree/master/Tareas/scripts/T1)
-- [Explicación Filtro Alpha](https://www.youtube.com/watch?v=EIDHJpLwCH4)
-
-### Tarea 2
-
-- [Tests y scripts de verificacion](https://github.com/IIC2133-PUC/2022-1/tree/master/Tareas/scripts/T2)
-
 ## Clases y Ayudantías
 
 |   Tipo    | Número | Tema | Fecha | Material   |
@@ -113,6 +103,10 @@ double nota_final()
     }
 }
 ```
+
+## Material Complementario
+
+Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aquí](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
 
 ## Política de integridad académica
 

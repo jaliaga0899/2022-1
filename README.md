@@ -85,9 +85,9 @@ double nota_final()
     double I1,I2,I3;
 
     /* Promedio de tareas */
-    double NT = (T0 + T1 + T2 + T3) / 4;
+    double NT = 0.20 * T0 + 0.30 * T1 + 0.25 * T2 + 0.25 * T3;
     /* Promedio de interrogaciones */
-    double NI = (I1 + I2 + I3) / 3;
+    double NI = 0.25 * I1 + 0.30 * I2 + 0.45 * I3;
 
     /* Nota final */
     double NF = (NT + NI) / 2;

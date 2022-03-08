@@ -1,6 +1,5 @@
 #include "house.h"
 
-
 /*
 En python, tu asignabas un valor a una vairable (un int, bool, etc) y se guardaba.
 En C, debes indicar cómo guardar la información usando funciones de stdlib.h
@@ -9,32 +8,43 @@ Más abajo te enseñamos a utilizar estos bloques de memoria y a liberarlos cuan
 no los necesites.
 */
 
-/*
-########## Almacenar utilizando malloc ##########
-*/
+/* ########## Almacenar utilizando malloc ########## */
+House* house_init_malloc(int streetNumber, int people, int width)
+{
+  House* house = malloc(sizeof(House));
 
-House* init_house() {
-  // House house;
-  House house = malloc(sizeof(house));
-
-  int a;
-  // return house;
-  return a;
+  *house = (House) {
+    .streetNumber = streetNumber,
+    .people = people,
+    .width = width,
+  };
+  return house;
 }
 
-/*
-########## Almacenar utiliznado calloc ##########
-*/
+/* ########## Almacenar utilizando calloc ########## */
+House* house_init_calloc(int streetNumber, int people, int width)
+{
+  House* house = calloc(1, sizeof(House));
 
-/*
-########## Imprimir la casa ##########
-*/
+  *house = (House) {
+    .streetNumber = streetNumber,
+    .people = people,
+    .width = width,
+  };
+  return house;
+}
 
+/* ########## Imprimir la casa ########## */
 void print_house(House* house)
 {
-
+  printf("### Esta es la casa en el heap utilizando funciones ###\n");
+  printf("Numero de personas: %i\n", house->people);
+  printf("Numero de calle: %i\n", house->streetNumber);
+  printf("Ancho: %i\n\n", house->width);
 }
 
-/*
-########## Liberar memoria con free ##########
-*/
+/* ########## Liberar memoria con free ########## */
+void destroy_house(House* house)
+{
+  free(house);
+}

@@ -29,35 +29,46 @@
 
 int main(int argc, char** argv)
 {
-  // podemos definir directamente el struct en el stack.
-  // declarar la casa en el stack automaticamente le otorga memoria
-  // a la casa
+  /*
+  Podemos definir directamente el struct en el stack.
+  Declarar la casa en el stack automaticamente le otorga memoria
+  a la casa
+  */
   House stackHouse;
-
   stackHouse.people = 5;
   stackHouse.streetNumber = 10;
   stackHouse.width = 15;
 
 
   // prints de la casa
-  printf("### Esta es la casa en el stack ###")
-  prinf("numero de personas: %i", stackHouse.people);
-  prinf("numero de calle: %i", stackHouse.streetNumber);
-  prinf("ancho: %i", stackHouse.width);
+  printf("### Esta es la casa en el stack ###\n");
+  printf("numero de personas: %i\n", stackHouse.people);
+  printf("numero de calle: %i\n", stackHouse.streetNumber);
+  printf("ancho: %i\n\n", stackHouse.width);
 
 
-  // definimos la casa en el heap
+  // Otra (mejor) opción es guardar la casa en el heap utilizando malloc
   House* heapHouse = malloc(sizeof(House));
   heapHouse -> people = 6;
-  stackHouse -> streetNumber = 12;
-  stackHouse -> width = 15;
+  heapHouse -> streetNumber = 12;
+  heapHouse -> width = 15;
+  // prints de la casa
+  printf("### Esta es la casa en el heap ###\n");
+  printf("numero de personas: %i\n", heapHouse->people);
+  printf("numero de calle: %i\n", heapHouse->streetNumber);
+  printf("ancho: %i\n\n", heapHouse->width);
 
-  // este segundo método se puede almacenar en una función
 
+  // Y otra opción (más ordenada) es almacenar en una función
+  House* heapFunctionHouse = house_init_malloc(5, 12, 13);
+  print_house(heapFunctionHouse);
 
-  matrix_test(4, 3);
+  // También es posible utilizar calloc, pero preferimos malloc
+  House* heapFunctionHouseCalloc = house_init_calloc(7, 24, 25);
+  print_house(heapFunctionHouseCalloc);
 
-  list_test(10);
-
+  destroy_house(heapHouse);
+  destroy_house(heapFunctionHouse);
+  destroy_house(heapFunctionHouseCalloc);
   return 0;
 }

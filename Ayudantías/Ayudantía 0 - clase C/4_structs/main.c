@@ -49,6 +49,8 @@ int main(int argc, char** argv)
 
   // Otra (mejor) opción es guardar la casa en el heap utilizando malloc
   House* heapHouse = malloc(sizeof(House));
+  // aquí utilizamos flechas, pues estamos alterando el
+  // struct utilizando su puntero
   heapHouse -> people = 6;
   heapHouse -> streetNumber = 12;
   heapHouse -> width = 15;

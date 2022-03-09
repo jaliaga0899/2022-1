@@ -33,6 +33,10 @@ struct house
 // Inicializa una casa con las indicaciones utilizando malloc
 House* house_init_malloc(int streetNumber, int people, int width);
 
+// Inicializa una casa con las indicaciones utilizando malloc
+// con notación un poco distinta_2
+House* house_init_malloc_2(int streetNumber, int people, int width);
+
 // Inicializa una casa con las indicaciones utilizando calloc
 House* house_init_calloc(int streetNumber, int people, int width);
 

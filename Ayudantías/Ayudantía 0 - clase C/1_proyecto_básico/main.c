@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   // Veamos que pasa si tomamos una variable y la interpretamos
   // (incorrectamente) como si fuera de otro tipo
 
-  printf("Z = 2.721810 interpretado como int: %i\n", z);
+  printf("Z = 2.721810 interpretado como int: %f\n", z);
 
   // Nótese que interpretar char como un numero entero es perfectamente legal
 

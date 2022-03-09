@@ -21,6 +21,18 @@ House* house_init_malloc(int streetNumber, int people, int width)
   return house;
 }
 
+/* ########## Almacenar utilizando malloc 2 ########## */
+House* house_init_malloc_2(int streetNumber, int people, int width)
+{
+  House* house = malloc(sizeof(House));
+
+  house -> streetNumber = streetNumber;
+  house -> people = people;
+  house -> width = width;
+
+  return house;
+}
+
 /* ########## Almacenar utilizando calloc ########## */
 House* house_init_calloc(int streetNumber, int people, int width)
 {

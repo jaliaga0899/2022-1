@@ -43,13 +43,35 @@ int sumar(int a, int b)
   return c;
 }
 
+// Función que cuenta los divisores de un número  n
+int div_count(int n);
+
+int div_count(int n){
+  
+  int count = 0;
+
+  for (int i = 1; i <= n; i++)
+  {
+    if (n % i == 0)
+    {
+        count += 1;
+    }
+  }
+
+  return count;
+}
+
 int main(int argc, char** argv)
 {
     mi_primera_funcion();
 
     int d = sumar(2, 3);
 
+    int div = div_count(15);
+
     printf("d = %i\n", d);
+
+    printf("15 tiene %d divisores\n", div);
 
     return 0;
 }

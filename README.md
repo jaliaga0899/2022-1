@@ -11,8 +11,6 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Talleres](#talleres)
   - [Material Tareas](#material-tareas)
-    - [Tarea 1](#tarea-1)
-    - [Tarea 2](#tarea-2)
   - [Clases y Ayudantías](#clases-y-ayudantías)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
@@ -20,6 +18,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Evaluación](#evaluación)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
     - [Tareas](#tareas)
+  - [Material Complementario](#material-complementario)
   - [Política de integridad académica](#política-de-integridad-académica)
 
 ## Talleres
@@ -59,9 +58,9 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 | Evaluación | Fecha |
 | :-------------- | :--------- |
-| Interrogación 1 | XX/XX/2022 |
-| Interrogación 2 | XX/XX/2022 |
-| Interrogación 3 | XX/XX/2022 |
+| Interrogación 1 | 04/04/2022 |
+| Interrogación 2 | 23/05/2022 |
+| Interrogación 3 | 30/06/2022 |
 
 ### Tareas
 
@@ -69,10 +68,10 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 
 | Evaluación | Fecha Publicacion | Fecha Entrega |
 | :--------- | :------------ | :------------ |
-| Tarea 0    | XX/XX/2022    | XX/XX/2022    |
-| Tarea 1    | XX/XX/2022    | XX/XX/2022    |
-| Tarea 2    | XX/XX/2022    | XX/XX/2022    |
-| Tarea 3    | XX/XX/2022    | XX/XX/2022    |
+| Tarea 0    | 10/03/2022    | 27/03/2022    |
+| Tarea 1    | Semana 04/04    | 2 semanas |
+| Tarea 2    | Semana 02/05     | 2 semanas |
+| Tarea 3    | Semana 23/05    | 2 semanas |
 
 La nota final del curso se calcula de la siguiente manera:
 

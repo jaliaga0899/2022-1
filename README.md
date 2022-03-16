@@ -44,6 +44,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Nombre  | Sección | Email |
 | :-------------- | :------ | :---------------- |
 | Yadran Eterovic | 1  | yadran@ing.puc.cl |
+| Mario Droguett | 2  | mario@uc.cl |
 
 ### Ayudantes
 

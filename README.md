@@ -33,6 +33,9 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 |   Tipo    | Número | Tema | Fecha | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Clase  |  0    |  Introduccion al curso |   07/03/2022  |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/T0/Clases/00.%20Introduccio%CC%81n%20al%20curso.pdf) |
+|  Clase  |  1    |  Selection Sort |   14/03/2022  |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/T0/Clases/01.%20Selection%20sort.pdf) |
+
 
 
 ## Equipo

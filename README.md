@@ -34,7 +34,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 |   Tipo    | Número | Tema | Fecha | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Clase  |  0    |  Introduccion al curso |   07/03/2022  |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/00.%20Introduccio%CC%81n%20al%20curso.pdf) |
-|  Clase  |  1    |  Selection Sort |   14/03/2022  |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20sort.pdf) |
+|  Clase  |  1    |  Selection Sort |   14/03/2022  |  [Diapos Mario](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20sort%20-%20Mario.pdf) [Diapos Yadran](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20e%20Insertion%20sort%20-%20Yadran.pdf) |
 
 
 
@@ -50,7 +50,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 | Nombre    | Email    | Github |
 | :----------------------- | :---------------------- | :------------------------------------------------------- |
-| Carlos Paredes*   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) ||
+| Carlos Paredes (Jefe)   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) ||
 
 ## Evaluación
 

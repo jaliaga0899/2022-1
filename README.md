@@ -54,7 +54,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Sergio   | matamalaappel@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel) ||
 | Carolina Maggi   | camaggi@uc.cl | [@carolinamaggi](https://www.github.com/carolinamaggi) ||
 | bastián ignacio   | b.marinkovic@uc.cl | [@BMarink512](https://www.github.com/BMarink512) ||
-| Sebastian Breguel   | sebabreguel@uc.cl | [@Sebastian Breguel](https://www.github.com/Sebastian Breguel) ||
+| Sebastian Breguel   | sebabreguel@uc.cl | [@sebastianbreguel](https://www.github.com/sebastianbreguel) ||
 | Felipe Lois   | fplois@uc.cl | [@fplois](https://www.github.com/fplois) ||
 | Felipe Fuentes | ffuentep@uc.cl | [@felipefuentesporras](https://www.github.com/felipefuentesporras) ||
 | Cristóbal Berríos | crisberrios@uc.cl | [@CrisBerriosL](https://www.github.com/CrisBerriosL) ||
@@ -63,8 +63,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | José Tomás Jiménez| josejimenez@uc.cl | [@josejimenezp](https://www.github.com/josejimenezp) ||
 | Nicolás Santa María | n.santamaria@uc.cl | [@nsantama](https://www.github.com/nsantama) ||
 | Itan Baruj | itanfelz@uc.cl | [@itanfelz00](https://www.github.com/itanfelz00) ||
-| Nicolás Espinoza | nespinov@uc.cl |   [@nsantama](https://www.github.com/Nicolás Espinoza) ||
-
+| Nicolás Espinoza | nespinov@uc.cl | [@nes07](https://www.github.com/nes07) ||
+ 
 ## Evaluación
 
 El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.

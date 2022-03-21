@@ -51,6 +51,19 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Nombre    | Email    | Github |
 | :----------------------- | :---------------------- | :------------------------------------------------------- |
 | Carlos Paredes (Jefe)   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) ||
+| Sergio   | matamalaappel@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel) ||
+| Carolina Maggi   | camaggi@uc.cl | [@carolinamaggi](https://www.github.com/carolinamaggi) ||
+| bastián ignacio   | b.marinkovic@uc.cl | [@BMarink512](https://www.github.com/BMarink512) ||
+| Sebastian Breguel   | sebabreguel@uc.cl | [@Sebastian Breguel](https://www.github.com/Sebastian Breguel) ||
+| Felipe Lois   | fplois@uc.cl | [@fplois](https://www.github.com/fplois) ||
+| Felipe Fuentes | ffuentep@uc.cl | [@felipefuentesporras](https://www.github.com/felipefuentesporras) ||
+| Cristóbal Berríos | crisberrios@uc.cl | [@CrisBerriosL](https://www.github.com/CrisBerriosL) ||
+| Eduardo Oteiza | etoteiza@uc.cl | [@etoteiza](https://www.github.com/etoteiza) ||
+| Belén Osse Cuevas  | baosse@uc.cl | [@baosse](https://www.github.com/baosse) ||
+| José Tomás Jiménez| josejimenez@uc.cl | [@josejimenezp](https://www.github.com/josejimenezp) ||
+| Nicolás Santa María | n.santamaria@uc.cl | [@nsantama](https://www.github.com/nsantama) ||
+| Itan Baruj | itanfelz@uc.cl | [@itanfelz00](https://www.github.com/itanfelz00) ||
+| Nicolás Espinoza | nespinov@uc.cl |   [@nsantama](https://www.github.com/Nicolás Espinoza) ||
 
 ## Evaluación
 

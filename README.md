@@ -27,6 +27,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 - [Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 
+## Material Complementario
+
+Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aquí](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
+
 ## Material Tareas
 
 ## Clases y Ayudantías
@@ -119,10 +123,6 @@ double nota_final()
     }
 }
 ```
-
-## Material Complementario
-
-Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aquí](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
 
 ## Política de integridad académica
 

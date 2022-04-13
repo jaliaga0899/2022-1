@@ -40,7 +40,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  0    |  Introduccion al curso |   07/03/2022  |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/00.%20Introduccio%CC%81n%20al%20curso.pdf) |
 |  Clase  |  1    |  Selection Sort |   14/03/2022  |  [Diapos Mario](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20sort%20-%20Mario.pdf) [Diapos Yadran](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20e%20Insertion%20sort%20-%20Yadran.pdf) |
 |  Clase  |  3    |  Merge Sort y dividir para reinar |   Semana 21 de marzo   |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/03.%20mergeSort%20y%20dividir%20para%20reinar.pdf)  |
-|  Clase  |  4    |  Quick Sort |  Semana 21 de marzo |  Diapos[1](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort.pdf) y [2](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
+|  Clase  |  4    |  Quick Sort |  Semana 21 de marzo |  Diapos [1](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort.pdf) y [2](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
 |  Clase  |  6    |  Áboles Binarios de Búsqueda |   Semana 28 de marzo |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/06.%20A%CC%81rboles%20Binarios%20de%20Bu%CC%81squeda.pdf) |
 |  Clase  |  7    |  Áboles AVL |   Semana 11 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/07.%20A%CC%81rboles%20AVL.pdf) |
 

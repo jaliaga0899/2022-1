@@ -43,6 +43,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  4    |  Quick Sort |  Semana 21 de marzo |  Diapos [1](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort.pdf) y [2](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
 |  Clase  |  6    |  Áboles Binarios de Búsqueda |   Semana 28 de marzo |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/06.%20A%CC%81rboles%20Binarios%20de%20Bu%CC%81squeda.pdf) |
 |  Clase  |  7    |  Áboles AVL |   Semana 11 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/07.%20A%CC%81rboles%20AVL.pdf) |
+|  Clase  |  9    |  Áboles Rojo-Negro |   Semana 20 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/clase-9/Clases/9.%20%C3%81rboles%20rojo-negros.pdf) |
 
 
 

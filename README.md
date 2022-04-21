@@ -10,6 +10,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [2022-1](#2022-1)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Talleres](#talleres)
+  - [Material Complementario](#material-complementario)
   - [Material Tareas](#material-tareas)
   - [Clases y Ayudantías](#clases-y-ayudantías)
   - [Equipo](#equipo)
@@ -18,7 +19,6 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Evaluación](#evaluación)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
     - [Tareas](#tareas)
-  - [Material Complementario](#material-complementario)
   - [Política de integridad académica](#política-de-integridad-académica)
 
 ## Talleres
@@ -96,7 +96,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Evaluación | Fecha Publicacion | Fecha Entrega |
 | :--------- | :------------ | :------------ |
 | Tarea 0    | 10/03/2022    | 27/03/2022    |
-| Tarea 1    | Semana 04/04    | 2 semanas |
+| Tarea 1    | Semana 04/04    | 04/05/2022 |
 | Tarea 2    | Semana 02/05     | 2 semanas |
 | Tarea 3    | Semana 23/05    | 2 semanas |
 

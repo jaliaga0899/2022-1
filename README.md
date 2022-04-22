@@ -12,7 +12,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Talleres](#talleres)
   - [Material Complementario](#material-complementario)
   - [Material Tareas](#material-tareas)
-  - [Clases y Ayudantías](#clases-y-ayudantías)
+  - [Clases](#clases)
   - [Ayudantias](#ayudantias)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
@@ -38,7 +38,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Capsula Enunciado T1](https://youtu.be/17DUh9M7ayo)
   - [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
 
-## Clases y Ayudantías
+## Clases
 
 |   Tipo    | Número | Tema | Fecha | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |

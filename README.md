@@ -34,8 +34,8 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 ## Material Tareas
 
 - T1
-  - [Capsula BST en C](https://youtu.be/17DUh9M7ayo)
-  - [Capsula Enunciado T1](https://youtu.be/j9W1qKCvFRE)
+  - [Capsula Enunciado T1](https://youtu.be/17DUh9M7ayo)
+  - [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
 
 ## Clases y Ayudantías
 

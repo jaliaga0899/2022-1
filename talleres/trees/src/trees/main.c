@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 #include "node.h"
 
 int main(int argc, char *argv[])
@@ -9,9 +10,10 @@ int main(int argc, char *argv[])
     int nodes_count;
     fscanf(input_file, "%d", &nodes_count);
 
+    int value;
     Node* root;
     Node* actual_node;
-    int value;
+
     fscanf(input_file, "%d", &value);
     root = node_create(value);
 
@@ -21,7 +23,8 @@ int main(int argc, char *argv[])
         actual_node = node_create(value);
         insert_node(root, actual_node);
     }
-    print_tree(root);
+
+    find_parent(root, 2);
 
     fclose(input_file);
     return 0;

@@ -14,3 +14,5 @@ Node* node_create(int value);
 void insert_node(Node* root, Node* node);
 
 void print_tree(Node* root);
+
+void find_parent(Node* root, int value);

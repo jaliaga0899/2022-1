@@ -10,6 +10,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [2022-1](#2022-1)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Talleres](#talleres)
+  - [Material Complementario](#material-complementario)
   - [Material Tareas](#material-tareas)
   - [Clases y Ayudantías](#clases-y-ayudantías)
   - [Equipo](#equipo)
@@ -18,7 +19,6 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Evaluación](#evaluación)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
     - [Tareas](#tareas)
-  - [Material Complementario](#material-complementario)
   - [Política de integridad académica](#política-de-integridad-académica)
 
 ## Talleres
@@ -39,6 +39,12 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Clase  |  0    |  Introduccion al curso |   07/03/2022  |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/00.%20Introduccio%CC%81n%20al%20curso.pdf) |
 |  Clase  |  1    |  Selection Sort |   14/03/2022  |  [Diapos Mario](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20sort%20-%20Mario.pdf) [Diapos Yadran](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/01.%20Selection%20e%20Insertion%20sort%20-%20Yadran.pdf) |
+|  Clase  |  3    |  Merge Sort y dividir para reinar |   Semana 21 de marzo   |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/03.%20mergeSort%20y%20dividir%20para%20reinar.pdf)  |
+|  Clase  |  4    |  Quick Sort |  Semana 21 de marzo |  Diapos [1](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort.pdf) y [2](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
+|  Clase  |  6    |  Áboles Binarios de Búsqueda |   Semana 28 de marzo |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/06.%20A%CC%81rboles%20Binarios%20de%20Bu%CC%81squeda.pdf) |
+|  Clase  |  7    |  Áboles AVL |   Semana 11 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/07.%20A%CC%81rboles%20AVL.pdf) |
+|  Clase  |  9    |  Áboles Rojo-Negro |   Semana 20 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/9.%20%C3%81rboles%20rojo-negros.pdf) |
+
 
 
 
@@ -90,7 +96,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Evaluación | Fecha Publicacion | Fecha Entrega |
 | :--------- | :------------ | :------------ |
 | Tarea 0    | 10/03/2022    | 27/03/2022    |
-| Tarea 1    | Semana 04/04    | 2 semanas |
+| Tarea 1    | Semana 04/04    | 04/05/2022 |
 | Tarea 2    | Semana 02/05     | 2 semanas |
 | Tarea 3    | Semana 23/05    | 2 semanas |
 

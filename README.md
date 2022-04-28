@@ -37,6 +37,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 - T1
   - [Capsula Enunciado T1](https://youtu.be/17DUh9M7ayo)
   - [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
+  - [Casula BVH 2](https://youtu.be/_mSVK0OaaYw)
   - [Tests](https://drive.google.com/drive/folders/1pUIwA6BBqtrfZgQ-WEH1CSafmWYXMFaH?usp=sharing)
 
 ## Clases

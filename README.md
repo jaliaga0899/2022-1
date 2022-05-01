@@ -10,15 +10,16 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [2022-1](#2022-1)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Talleres](#talleres)
+  - [Material Complementario](#material-complementario)
   - [Material Tareas](#material-tareas)
-  - [Clases y Ayudantías](#clases-y-ayudantías)
+  - [Clases](#clases)
+  - [Ayudantias](#ayudantias)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Ayudantes](#ayudantes)
   - [Evaluación](#evaluación)
     - [Evaluaciones Escritas](#evaluaciones-escritas)
     - [Tareas](#tareas)
-  - [Material Complementario](#material-complementario)
   - [Política de integridad académica](#política-de-integridad-académica)
 
 ## Talleres
@@ -33,7 +34,13 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 ## Material Tareas
 
-## Clases y Ayudantías
+- T1
+  - [Capsula Enunciado T1](https://youtu.be/17DUh9M7ayo)
+  - [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
+  - [Casula BVH 2](https://youtu.be/_mSVK0OaaYw)
+  - [Tests](https://drive.google.com/drive/folders/1pUIwA6BBqtrfZgQ-WEH1CSafmWYXMFaH?usp=sharing)
+
+## Clases
 
 |   Tipo    | Número | Tema | Fecha | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -43,9 +50,22 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  4    |  Quick Sort |  Semana 21 de marzo |  Diapos [1](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort.pdf) y [2](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
 |  Clase  |  6    |  Áboles Binarios de Búsqueda |   Semana 28 de marzo |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/06.%20A%CC%81rboles%20Binarios%20de%20Bu%CC%81squeda.pdf) |
 |  Clase  |  7    |  Áboles AVL |   Semana 11 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/07.%20A%CC%81rboles%20AVL.pdf) |
+|  Clase  |  9    |  Áboles Rojo-Negro |   Semana 20 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/9.%20%C3%81rboles%20rojo-negros.pdf) |
+|  Clase  |  10    |  Hashing y tablas de Hash |   Semana 25 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/10.%20hashTables.pdf) |
 
 
+## Ayudantias
 
+|   Tipo    | Número | Tema | | Material   |
+| :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Ayudantia  |  0    |  Introduccion a C |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%200%20-%20clase%20C) |
+|  Ayudantia  |  1    |  Sorting |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201) |
+|  Ayudantia  |  2    |  Dividir y Vencer |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202) |
+|  Ayudantia  |  3    |  Repaso I1 - 1 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Mi%C3%A9rcoles) |
+|  Ayudantia  |  3    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
+|  Ayudantia  |  4    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
+|  Ayudantia  |  5    |  BST y AVL |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
+|  Ayudantia  |  6    |  Rojo-Negro |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
 
 ## Equipo
 
@@ -95,7 +115,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Evaluación | Fecha Publicacion | Fecha Entrega |
 | :--------- | :------------ | :------------ |
 | Tarea 0    | 10/03/2022    | 27/03/2022    |
-| Tarea 1    | Semana 04/04    | 2 semanas |
+| Tarea 1    | Semana 04/04    | 04/05/2022 |
 | Tarea 2    | Semana 02/05     | 2 semanas |
 | Tarea 3    | Semana 23/05    | 2 semanas |
 

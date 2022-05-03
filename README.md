@@ -56,16 +56,16 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 ## Ayudantias
 
-|   Tipo    | Número | Tema | | Material   |
+|   Tipo    | Número | Tema | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Ayudantia  |  0    |  Introduccion a C |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%200%20-%20clase%20C) |
-|  Ayudantia  |  1    |  Sorting |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201) |
-|  Ayudantia  |  2    |  Dividir y Vencer |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202) |
-|  Ayudantia  |  3    |  Repaso I1 - 1 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Mi%C3%A9rcoles) |
-|  Ayudantia  |  3    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
-|  Ayudantia  |  4    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
-|  Ayudantia  |  5    |  BST y AVL |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
-|  Ayudantia  |  6    |  Rojo-Negro |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
+|  Ayudantia  |  0    |  Introduccion a C |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%200%20-%20clase%20C) |
+|  Ayudantia  |  1    |  Sorting |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201) |
+|  Ayudantia  |  2    |  Dividir y Vencer |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202) |
+|  Ayudantia  |  3    |  Repaso I1 - 1 |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Mi%C3%A9rcoles) |
+|  Ayudantia  |  3    |  Repaso I1 - 2 |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
+|  Ayudantia  |  4    |  Repaso I1 - 2 |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
+|  Ayudantia  |  5    |  BST y AVL |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
+|  Ayudantia  |  6    |  Rojo-Negro |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
 
 ## Equipo
 

@@ -56,16 +56,16 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 ## Ayudantias
 
-|   Tipo    | Número | Tema | Material   |
+|   Tipo    | Número | Tema | | Material   |
 | :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Ayudantia  |  0    |  Introduccion a C |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%200%20-%20clase%20C) |
-|  Ayudantia  |  1    |  Sorting |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201) |
-|  Ayudantia  |  2    |  Dividir y Vencer |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202) |
-|  Ayudantia  |  3    |  Repaso I1 - 1 |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Mi%C3%A9rcoles) |
-|  Ayudantia  |  3    |  Repaso I1 - 2 |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
-|  Ayudantia  |  4    |  Repaso I1 - 2 |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
-|  Ayudantia  |  5    |  BST y AVL |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
-|  Ayudantia  |  6    |  Rojo-Negro |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
+|  Ayudantia  |  0    |  Introduccion a C |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%200%20-%20clase%20C) |
+|  Ayudantia  |  1    |  Sorting |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201) |
+|  Ayudantia  |  2    |  Dividir y Vencer |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%202) |
+|  Ayudantia  |  3    |  Repaso I1 - 1 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Mi%C3%A9rcoles) |
+|  Ayudantia  |  3    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
+|  Ayudantia  |  4    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
+|  Ayudantia  |  5    |  BST y AVL |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
+|  Ayudantia  |  6    |  Rojo-Negro |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
 
 ## Equipo
 
@@ -79,23 +79,23 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 | Nombre    | Email    | Github |
 | :----------------------- | :---------------------- | :------------------------------------------------------- |
-| Carlos Paredes (Jefe)   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) |
-| Sergio Matamala   | matamalaappel@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel) |
-| Carolina Maggi   | camaggi@uc.cl | [@carolinamaggi](https://www.github.com/carolinamaggi) |
-| Bastián Ignacio   | b.marinkovic@uc.cl | [@BMarink512](https://www.github.com/BMarink512) |
-| Sebastian Breguel   | sebabreguel@uc.cl | [@sebastianbreguel](https://www.github.com/sebastianbreguel) |
-| Felipe Lois   | fplois@uc.cl | [@fplois](https://www.github.com/fplois) |
-| Felipe Fuentes | ffuentep@uc.cl | [@felipefuentesporras](https://www.github.com/felipefuentesporras) |
-| Cristóbal Berríos | crisberrios@uc.cl | [@CrisBerriosL](https://www.github.com/CrisBerriosL) |
-| Eduardo Oteiza | etoteiza@uc.cl | [@etoteiza](https://www.github.com/etoteiza) |
-| Belén Osse Cuevas  | baosse@uc.cl | [@baosse](https://www.github.com/baosse) |
-| José Tomás Jiménez| josejimenez@uc.cl | [@josejimenezp](https://www.github.com/josejimenezp) |
-| Nicolás Santa María | n.santamaria@uc.cl | [@nsantama](https://www.github.com/nsantama) |
-| Itan Baruj | itanfelz@uc.cl | [@itanfelz00](https://www.github.com/itanfelz00) |
-| Nicolás Espinoza | nespinov@uc.cl | [@nes07](https://www.github.com/nes07) |
-| Alfredo Mahns | amahns1@uc.cl | [@amahns1](https://www.github.com/amahns1) |
-| Alonso Carrasco | alonc@uc.cl | [@Aloncarrasco](https://www.github.com/Aloncarrasco) |
-| Pedro Fuenzalida | pedrofuenzalida@uc.cl | [@PedroFuenzalida](https://www.github.com/PedroFuenzalida) |
+| Carlos Paredes (Jefe)   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) ||
+| Sergio Matamala   | matamalaappel@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel) ||
+| Carolina Maggi   | camaggi@uc.cl | [@carolinamaggi](https://www.github.com/carolinamaggi) ||
+| Bastián Ignacio   | b.marinkovic@uc.cl | [@BMarink512](https://www.github.com/BMarink512) ||
+| Sebastian Breguel   | sebabreguel@uc.cl | [@sebastianbreguel](https://www.github.com/sebastianbreguel) ||
+| Felipe Lois   | fplois@uc.cl | [@fplois](https://www.github.com/fplois) ||
+| Felipe Fuentes | ffuentep@uc.cl | [@felipefuentesporras](https://www.github.com/felipefuentesporras) ||
+| Cristóbal Berríos | crisberrios@uc.cl | [@CrisBerriosL](https://www.github.com/CrisBerriosL) ||
+| Eduardo Oteiza | etoteiza@uc.cl | [@etoteiza](https://www.github.com/etoteiza) ||
+| Belén Osse Cuevas  | baosse@uc.cl | [@baosse](https://www.github.com/baosse) ||
+| José Tomás Jiménez| josejimenez@uc.cl | [@josejimenezp](https://www.github.com/josejimenezp) ||
+| Nicolás Santa María | n.santamaria@uc.cl | [@nsantama](https://www.github.com/nsantama) ||
+| Itan Baruj | itanfelz@uc.cl | [@itanfelz00](https://www.github.com/itanfelz00) ||
+| Nicolás Espinoza | nespinov@uc.cl | [@nes07](https://www.github.com/nes07) ||
+| Alfredo Mahns | amahns1@uc.cl | [@amahns1](https://www.github.com/amahns1) ||
+| Alonso Carrasco | alonc@uc.cl | [@Aloncarrasco](https://www.github.com/Aloncarrasco) ||
+| Pedro Fuenzalida | pedrofuenzalida@uc.cl | [@PedroFuenzalida](https://www.github.com/PedroFuenzalida) ||
 
 ## Evaluación
 

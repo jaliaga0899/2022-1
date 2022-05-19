@@ -40,6 +40,9 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Casula BVH 2](https://youtu.be/_mSVK0OaaYw)
   - [Tests](https://drive.google.com/drive/folders/1pUIwA6BBqtrfZgQ-WEH1CSafmWYXMFaH?usp=sharing)
 
+- T2
+  - [Tests Demo](https://drive.google.com/drive/folders/1_4bzoV2tMN6h1CNMAz6QX_Cxt35OAI5f?usp=sharing)
+
 ## Clases
 
 |   Tipo    | Número | Tema | Fecha | Material   |
@@ -53,6 +56,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  9    |  Áboles Rojo-Negro |   Semana 20 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/9.%20%C3%81rboles%20rojo-negros.pdf) |
 |  Clase  |  10    |  Hashing y tablas de Hash |   Semana 25 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/10.%20hashTables.pdf) |
 |  Clase  |  11    |  Backtracking |   Semana 9 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/11.%20Backtracking.pdf) |
+|  Clase  |  12    |  Repaso I2 |   Semana 16 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/Repaso%20I2.pdf) |
 
 ## Ayudantias
 

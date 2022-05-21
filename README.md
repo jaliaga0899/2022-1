@@ -42,6 +42,8 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 
 - T2
   - [Tests Demo](https://drive.google.com/drive/folders/1_4bzoV2tMN6h1CNMAz6QX_Cxt35OAI5f?usp=sharing)
+  - [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
+  - [Capsula Enunciado](https://youtu.be/Nc8kihv4LF4)
 
 ## Clases
 

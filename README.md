@@ -72,6 +72,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Ayudantia  |  4    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
 |  Ayudantia  |  5    |  BST y AVL |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
 |  Ayudantia  |  6    |  Rojo-Negro |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
+|  Ayudantia  |  I2    |  I2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADas%20Repaso%20I2) |
 
 ## Equipo
 

@@ -40,6 +40,11 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Casula BVH 2](https://youtu.be/_mSVK0OaaYw)
   - [Tests](https://drive.google.com/drive/folders/1pUIwA6BBqtrfZgQ-WEH1CSafmWYXMFaH?usp=sharing)
 
+- T2
+  - [Tests Demo](https://drive.google.com/drive/folders/1_4bzoV2tMN6h1CNMAz6QX_Cxt35OAI5f?usp=sharing)
+  - [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
+  - [Capsula Enunciado](https://youtu.be/Nc8kihv4LF4)
+
 ## Clases
 
 |   Tipo    | Número | Tema | Fecha | Material   |
@@ -52,7 +57,8 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  7    |  Áboles AVL |   Semana 11 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/07.%20A%CC%81rboles%20AVL.pdf) |
 |  Clase  |  9    |  Áboles Rojo-Negro |   Semana 20 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/9.%20%C3%81rboles%20rojo-negros.pdf) |
 |  Clase  |  10    |  Hashing y tablas de Hash |   Semana 25 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/10.%20hashTables.pdf) |
-
+|  Clase  |  11    |  Backtracking |   Semana 9 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/11.%20Backtracking.pdf) |
+|  Clase  |  12    |  Repaso I2 |   Semana 16 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/Repaso%20I2.pdf) |
 
 ## Ayudantias
 
@@ -66,6 +72,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Ayudantia  |  4    |  Repaso I1 - 2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%20Repaso%20I1%20-%20Viernes) |
 |  Ayudantia  |  5    |  BST y AVL |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20BST%20AVL.pdf) |
 |  Ayudantia  |  6    |  Rojo-Negro |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Arboles%20-%20RojoNegro.pdf) |
+|  Ayudantia  |  I2    |  I2 |    |  [Diapos](https://github.com/IIC2133-PUC/2022-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADas%20Repaso%20I2) |
 
 ## Equipo
 
@@ -80,9 +87,9 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Nombre    | Email    | Github |
 | :----------------------- | :---------------------- | :------------------------------------------------------- |
 | Carlos Paredes (Jefe)   | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33) ||
-| Sergio   | matamalaappel@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel) ||
+| Sergio Matamala   | matamalaappel@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel) ||
 | Carolina Maggi   | camaggi@uc.cl | [@carolinamaggi](https://www.github.com/carolinamaggi) ||
-| bastián ignacio   | b.marinkovic@uc.cl | [@BMarink512](https://www.github.com/BMarink512) ||
+| Bastián Ignacio   | b.marinkovic@uc.cl | [@BMarink512](https://www.github.com/BMarink512) ||
 | Sebastian Breguel   | sebabreguel@uc.cl | [@sebastianbreguel](https://www.github.com/sebastianbreguel) ||
 | Felipe Lois   | fplois@uc.cl | [@fplois](https://www.github.com/fplois) ||
 | Felipe Fuentes | ffuentep@uc.cl | [@felipefuentesporras](https://www.github.com/felipefuentesporras) ||
@@ -93,7 +100,10 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 | Nicolás Santa María | n.santamaria@uc.cl | [@nsantama](https://www.github.com/nsantama) ||
 | Itan Baruj | itanfelz@uc.cl | [@itanfelz00](https://www.github.com/itanfelz00) ||
 | Nicolás Espinoza | nespinov@uc.cl | [@nes07](https://www.github.com/nes07) ||
- 
+| Alfredo Mahns | amahns1@uc.cl | [@amahns1](https://www.github.com/amahns1) ||
+| Alonso Carrasco | alonc@uc.cl | [@Aloncarrasco](https://www.github.com/Aloncarrasco) ||
+| Pedro Fuenzalida | pedrofuenzalida@uc.cl | [@PedroFuenzalida](https://www.github.com/PedroFuenzalida) ||
+
 ## Evaluación
 
 El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante tareas de programación en C.

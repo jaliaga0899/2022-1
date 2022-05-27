@@ -127,7 +127,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Tarea 0    | 10/03/2022    | 27/03/2022    |
 | Tarea 1    | Semana 04/04    | 04/05/2022 |
 | Tarea 2    | Semana 02/05     | 2 semanas |
-| Tarea 3    | Semana 23/05    | 2 semanas |
+| Tarea 3    | Semana 06/06    | 2 semanas |
 
 La nota final del curso se calcula de la siguiente manera:
 

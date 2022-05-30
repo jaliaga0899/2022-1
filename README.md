@@ -60,6 +60,8 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  10    |  Hashing y tablas de Hash |   Semana 25 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/10.%20hashTables.pdf) |
 |  Clase  |  11    |  Backtracking |   Semana 9 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/11.%20Backtracking.pdf) |
 |  Clase  |  12    |  Repaso I2 |   Semana 16 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/Repaso%20I2.pdf) |
+|  Clase  |  13    | Algoritmos Codiciosos |   Semana 23 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
+|  Clase  |  14    |  Programacion Dinamica |   Semana 30 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
 
 ## Ayudantias
 

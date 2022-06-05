@@ -41,9 +41,10 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Tests](https://drive.google.com/drive/folders/1pUIwA6BBqtrfZgQ-WEH1CSafmWYXMFaH?usp=sharing)
 
 - T2
-  - [Tests Demo](https://drive.google.com/drive/folders/1_4bzoV2tMN6h1CNMAz6QX_Cxt35OAI5f?usp=sharing)
+  - [Tests Finales](https://drive.google.com/drive/folders/1_4bzoV2tMN6h1CNMAz6QX_Cxt35OAI5f?usp=sharing)
   - [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
   - [Capsula Enunciado](https://youtu.be/Nc8kihv4LF4)
+  - [Video Sala de Ayuda](https://youtu.be/wUBSFivt6zg)
 
 ## Clases
 
@@ -59,6 +60,8 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  10    |  Hashing y tablas de Hash |   Semana 25 de abril  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/10.%20hashTables.pdf) |
 |  Clase  |  11    |  Backtracking |   Semana 9 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/11.%20Backtracking.pdf) |
 |  Clase  |  12    |  Repaso I2 |   Semana 16 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/Repaso%20I2.pdf) |
+|  Clase  |  13    | Algoritmos Codiciosos |   Semana 23 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
+|  Clase  |  14    |  Programacion Dinamica |   Semana 30 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
 
 ## Ayudantias
 
@@ -127,7 +130,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | Tarea 0    | 10/03/2022    | 27/03/2022    |
 | Tarea 1    | Semana 04/04    | 04/05/2022 |
 | Tarea 2    | Semana 02/05     | 2 semanas |
-| Tarea 3    | Semana 23/05    | 2 semanas |
+| Tarea 3    | Semana 06/06    | 2 semanas |
 
 La nota final del curso se calcula de la siguiente manera:
 

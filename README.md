@@ -32,6 +32,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aquí](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
 
+- [Capsula DFS](https://youtu.be/tJV3CV0edl0)
+
 ## Material Tareas
 
 - T1

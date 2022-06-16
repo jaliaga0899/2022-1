@@ -48,6 +48,9 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Capsula Enunciado](https://youtu.be/Nc8kihv4LF4)
   - [Video Sala de Ayuda](https://youtu.be/wUBSFivt6zg)
 
+- T3
+  - [Tests](https://drive.google.com/drive/folders/1V-Bx0wp1ee5HWL6rcbTuVVmeXRVO2kqd)
+
 ## Clases
 
 |   Tipo    | Número | Tema | Fecha | Material   |

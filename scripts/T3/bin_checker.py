@@ -3,8 +3,8 @@ import numpy as np
 
 def check_output(testfile, student_output, jsonfile):
     try:
-        tests = ["easy_0", "easy_1", "easy_2", "easy_3"
-            "medium_0", "medium_1", "medium_2", "medium_3"
+        tests = ["easy_0", "easy_1", "easy_2", "easy_3",
+            "medium_0", "medium_1", "medium_2", "medium_3",
             "hard_0", "hard_1", "hard_2", "hard_3"]
         for test in tests:
             if test in testfile:

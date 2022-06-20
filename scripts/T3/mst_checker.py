@@ -173,7 +173,7 @@ if __name__ == '__main__':
     # PUEDES REESCRIBIR ESTA SECCION PARA AUTOMATIZAR TU REVISION
 
     test_file_path = input("Introduce el path del archivo de test: ")
-    output_file_path = input("Introduce el path del tu archivo de output: ")
+    output_file_path = input("Introduce el path de tu archivo de output: ")
     jsonfile = input("Introduce el path del archivo de pauta: ")
 
     _ ,score = check_mst(test_file_path, output_file_path, jsonfile)

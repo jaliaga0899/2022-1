@@ -111,11 +111,12 @@ def check_contains_original_nodes(nodes, mst):
     return True
 
 
-def check_improvement(graph, jsonfile, testfile):
+def check_improvement(graph, jsonfile, testfile, cost):
 
-    tests = ["easy_0", "easy_1", "easy_2", 
+    tests = ["easy_0", "easy_1", "easy_2",
             "medium_0", "medium_1", "medium_2",
             "hard_0", "hard_1", "hard_2"]
+
     for test in tests:
         if test in testfile:
             key = test
@@ -123,19 +124,28 @@ def check_improvement(graph, jsonfile, testfile):
 
     with open(jsonfile, "r") as file:
         comparador = json.load(file)
+
+    if comparador[key]["costo"] != cost:
+        return "Output is not a MST", 0
+
     grados = [tupla[1] for tupla in list(graph.degree)]
     suma = 0
+
     if max(grados) > 6:
         return "PARTIAL CORRECT", 0.59
 
     for i in range(1, 7):
         if i == 6:
+            print(grados.count(i), i)
             suma += i * grados.count(i) * 7
         elif i == 5:
+            print(grados.count(i), i)
             suma += i * grados.count(i) * 3
         elif i == 4:
+            print(grados.count(i), i)
             suma += i * grados.count(i) * 2
         else:
+            print(grados.count(i), i)
             suma += i * grados.count(i)
 
     if (suma/comparador[key]["obj"]) > 1.35:
@@ -145,6 +155,7 @@ def check_improvement(graph, jsonfile, testfile):
         return "PARTIAL CORRECT", 0.75
 
     elif (suma/comparador[key]["obj"]) > 1:
+        print(suma, comparador[key]["obj"])
         return "PARTIAL CORRECT", 0.84
     else:
         return "CORRECT", 1
@@ -161,7 +172,7 @@ def check_mst(test_file, student_output, jsonfile):
         contains_original_nodes = check_contains_original_nodes(nodes, mst)
         if not contains_original_nodes:
             return False, "Original Nodes Not Found"
-        return True, check_improvement(graph, jsonfile, test_file)
+        return True, check_improvement(graph, jsonfile, test_file, cost)
 
     except FileNotFoundError:
         return False, "WRONG PATH"

@@ -32,6 +32,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aquí](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
 
+- [Capsula DFS](https://youtu.be/tJV3CV0edl0)
+
 ## Material Tareas
 
 - T1
@@ -45,6 +47,9 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
   - [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
   - [Capsula Enunciado](https://youtu.be/Nc8kihv4LF4)
   - [Video Sala de Ayuda](https://youtu.be/wUBSFivt6zg)
+
+- T3
+  - [Tests](https://drive.google.com/drive/folders/1V-Bx0wp1ee5HWL6rcbTuVVmeXRVO2kqd)
 
 ## Clases
 
@@ -62,6 +67,7 @@ Las clases y ayudantías realizadas durante el semestre 2021-2 se encuentran [aq
 |  Clase  |  12    |  Repaso I2 |   Semana 16 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/Repaso%20I2.pdf) |
 |  Clase  |  13    | Algoritmos Codiciosos |   Semana 23 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
 |  Clase  |  14    |  Programacion Dinamica |   Semana 30 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
+|  Clase  |  15    |  MST |   Semana 30 de mayo  |  [Diapos ](https://github.com/IIC2133-PUC/2022-1/blob/master/Clases/) |
 
 ## Ayudantias
 
